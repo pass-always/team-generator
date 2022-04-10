@@ -1,6 +1,15 @@
 # TeamGenerator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.1. 
+- HTML Template
+- Scoped & Global Styling
+- State
+- Event Handling
+- Structural Directives
+- Attribute Directives
+- Adding Complex Logic
+- Components
+- Pipes
 
 ## Development server
 
